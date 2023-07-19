@@ -17,8 +17,8 @@ En el proyecto, el contenido en el repositorio de Github, debe contener:
     - *run*: ejectutar el proyecto
     - *report*: compilar y generar el pdf del proyecto latex relativo al informe
     - *slides*: compilar y generar el pdf del proyecto latex relativo a la presentación
-    - *show_report*: ejecutar un programa que permita visualizar el informe, si el fichero en pdf no ha sido generado debe generarse. Esta opción puede recibir el comando de la herramienta de visualización que se quiera utilizar, aunque debe tener una por defecto.
-    - *show_slides*: ejecutar un programa que permita visualizar la presentación, si el fichero en pdf no ha sido generado debe generarse. Esta opción puede recibir el comando de la herramienta de visualización que se quiera utilizar, aunque debe tener una por defecto. 
+    - *show_report*: ejecutar un programa que permita visualizar el informe, si el fichero en pdf no ha sido generado debe generarse. Esta opción puede recibir como parámetro el comando de la herramienta de visualización que se quiera utilizar, aunque debe tener una por defecto.
+    - *show_slides*: ejecutar un programa que permita visualizar la presentación, si el fichero en pdf no ha sido generado debe generarse. Esta opción puede recibir puede recibir como parámetro  el comando de la herramienta de visualización que se quiera utilizar, aunque debe tener una por defecto. 
     - *clean*: eliminar todos los ficheros auxiliares que no forman parte del contenido del repositorio y se generan en la compilación o ejecución del proyecto, o en la generación de los pdfs del reporte o la presentación
 
 ***En caso de que finalmente la conferencia de bash no se imparta, se deberá estudia e investigar bash de manera individual de modo que se pueda completar esta parte de las prácticas. Con esto queda claro que, aún sin impartirse la conferencia de bash, se deben completar todos los requerimientos especificados.***
